@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 mongoose
-.connect('mongodb+srv://joshhutchison:' + process.env.PASSWORD + '@cluster0.tanblky.mongodb.net/mernPizzaHaus?retryWrites=true&w=majority')
+.connect('mongodb+srv://joshhutchison:' + process.env.PASSWORD + '@cluster0.tanblky.mongodb.net/mernHausDatabase?retryWrites=true&w=majority')
     .then(() => {
         console.log('Successfully connected to MongoDB.')
     })
