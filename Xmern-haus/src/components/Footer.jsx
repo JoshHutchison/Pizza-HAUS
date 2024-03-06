@@ -17,14 +17,14 @@ export default function Footer() {
             <FontAwesomeIcon
               icon={faLinkedin}
               size="xl"
-              style={{ color: "white" }}
+              style={{ color: "black" }}
             />
           </a>
           <a href="https://github.com/adhammorsy75" target="_blank" className="github-link">
             <FontAwesomeIcon
               icon={faGithub}
               size="xl"
-              style={{ color: "white" }}
+              style={{ color: "black" }}
             />
           </a>
         </div>
@@ -34,14 +34,14 @@ export default function Footer() {
             <FontAwesomeIcon
               icon={faLinkedin}
               size="xl"
-              style={{ color: "white" }}
+              style={{ color: "black" }}
             />
           </a>
           <a href="https://github.com/williamrogerschi" target="_blank" className="github-link">
             <FontAwesomeIcon
               icon={faGithub}
               size="xl"
-              style={{ color: "white" }}
+              style={{ color: "black" }}
             />
           </a>
         </div>
@@ -51,14 +51,14 @@ export default function Footer() {
             <FontAwesomeIcon
               icon={faLinkedin}
               size="xl"
-              style={{ color: "white" }}
+              style={{ color: "black" }}
             />
           </a>
           <a href="https://github.com/jmasterr" target="_blank" className="github-link">
             <FontAwesomeIcon
               icon={faGithub}
               size="xl"
-              style={{ color: "white" }}
+              style={{ color: "black" }}
             />
          </a>
         </div>
@@ -68,14 +68,14 @@ export default function Footer() {
             <FontAwesomeIcon
               icon={faLinkedin}
               size="xl"
-              style={{ color: "white" }}
+              style={{ color: "black" }}
             />
           </a>
           <a href="https://github.com/JoshHutchison" target="_blank" className="github-link">
             <FontAwesomeIcon
               icon={faGithub}
               size="xl"
-              style={{ color: "white" }}
+              style={{ color: "black" }}
             />
           </a>
         </div>
