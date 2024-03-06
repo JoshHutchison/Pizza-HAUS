@@ -12,7 +12,7 @@ const Home = () => {
         <Link to='/Pizza' className="menu-item">
           <div className="menu-text">
             <h2>Menu</h2>
-            <h3>Instructions</h3>
+            <p>Instructions</p>
             <p>This site is a test website</p>
             <p>Please give some time for the backend to start up, it typically takes about 20 sec</p>
             <p>Click Login at the top right to login.  You can choose User1 - User20. Password 1234</p>
