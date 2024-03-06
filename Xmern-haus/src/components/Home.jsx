@@ -11,7 +11,8 @@ const Home = () => {
       <div className="menu-container">
         <Link to='/Pizza' className="menu-item">
           <div className="menu-text">
-            <h2>Instructions</h2>
+            <h2>Menu</h2>
+            <h3>Instructions</h3>
             <p>This site is a test website</p>
             <p>Please give some time for the backend to start up, it typically takes about 20 sec</p>
             <p>Click Login at the top right to login.  You can choose User1 - User20. Password 1234</p>
