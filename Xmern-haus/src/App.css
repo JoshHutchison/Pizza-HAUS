@@ -192,15 +192,10 @@ li {
   padding: 0px;
 }
 
-.footer div:nth-child(1) {
-  color: rgb(233,229,221);
+.footer div {
+  color: black;
 }
-.footer div:nth-child(2) {
-  color:rgb(233,229,221);
-}
-.footer div:nth-child(3) {
-  color:rgb(233,229,221);
-}
+
 .inner-footer {
   display: flex;
   flex-direction: row;
@@ -236,7 +231,7 @@ li {
 }
 
 .footer-list {
-  color: rgb(233,229,221);
+  color: black;
   text-decoration: none;
 }
 
